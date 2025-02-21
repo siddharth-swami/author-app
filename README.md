@@ -65,7 +65,7 @@ Edit `.env` file:
 ```sh
 APP_NAME="Author Management"
 APP_URL=http://localhost
-THIRD_PARTY_API_URL="https://third-party-api.com"
+THIRD_PARTY_API_URL="https://third-party-api.com/api/v2"
 ```
 
 ### Step 4: Generate Application Key
