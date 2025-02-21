@@ -1,0 +1,67 @@
+# Laravel specific
+/vendor/
+/node_modules/
+# Ignore compiled assets
+/public/storage
+/public/hot
+/public/mix-manifest.json
+/public/css/app.css
+/public/js/app.js
+/public/build
+/public/*.map
+
+# Environment files
+.env
+.env.*.local
+.env.backup
+/.env.local.php
+
+# Ignoring database and cache files
+/database/*.sqlite
+/database/*.sqlite-journal
+/storage/*.key
+/storage/oauth-public.key
+/storage/oauth-private.key
+
+# Laravel logs and caches
+/storage/logs/
+/storage/framework/
+/storage/debugbar/
+bootstrap/cache/
+
+# Ignoring IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Ignore composer and npm lock files if necessary
+/composer.lock
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Ignore testing environment files
+/.phpunit.result.cache
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# Ignore deployment files
+/.env.production
+/deploy.php
+/deploy.sh
+
+# Ignore Docker files if using Docker
+.docker/
+docker-compose.yml
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Ignore MacOS and system files
+.DS_Store
+Thumbs.db
