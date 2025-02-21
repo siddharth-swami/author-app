@@ -47,8 +47,8 @@ Features
 ## Installation & Setup
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repository/author-management.git
-cd author-management
+git clone https://github.com/siddharth-swami/author-app.git
+cd author-app
 ```
 
 ### Step 2: Install Dependencies
@@ -102,7 +102,7 @@ routes/
 👤 **Siddharth**
 - **Role:** Full-Stack Developer
 - **Expertise:** Laravel, PHP, JavaScript, React, DevOps
-- **GitHub:** [github.com/your-profile](https://github.com/your-profile)
+- **GitHub:** [github.com/siddharth-swami](https://github.com/siddharth-swami)
 
 ## License
 This project is licensed under the MIT License.
